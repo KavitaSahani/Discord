@@ -1,0 +1,1 @@
+const dataLength = querySelector("[data-length]")
